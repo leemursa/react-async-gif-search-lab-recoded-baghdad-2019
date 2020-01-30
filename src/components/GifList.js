@@ -6,9 +6,9 @@
       "url": "https://giphy.com/gifs/bbc-wildlife-l0HlNQ03J5JxX6lva",
       "bitly_gif_url": "https://gph.is/2iC32M8",
       "bitly_url": "https://gph.is/2iC32M8",
- 
-      
- 
+
+
+
       "images": {
         "fixed_height_still": {
           "url": "https://media0.giphy.com/media/l0HlNQ03J5JxX6lva/200_s.gif?cid=e1bb72ff5b9fa2866168584b51f13892",
@@ -16,13 +16,13 @@
           "height": "200",
           "size": "55556"
         },
-        
+
         "original": {
           "url": "https://media0.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif?cid=e1bb72ff5b9fa2866168584b51f13892",
           "width": "480",
           "height": "240",
         }
-      
+
       }
     }
     ]
